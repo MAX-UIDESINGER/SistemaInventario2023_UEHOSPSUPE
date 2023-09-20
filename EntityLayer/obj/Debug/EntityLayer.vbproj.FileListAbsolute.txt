@@ -1,0 +1,10 @@
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\EntityLayer\bin\Debug\EntityLayer.xml
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\EntityLayer\obj\Debug\EntityLayer.vbproj.AssemblyReference.cache
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\EntityLayer\obj\Debug\EntityLayer.Resources.resources
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\EntityLayer\obj\Debug\EntityLayer.vbproj.GenerateResource.cache
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\EntityLayer\obj\Debug\EntityLayer.vbproj.CoreCompileInputs.cache
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\EntityLayer\obj\Debug\EntityLayer.xml
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\EntityLayer\obj\Debug\EntityLayer.pdb

@@ -1,0 +1,10 @@
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\DataAccessLayer\bin\Debug\DataAccessLayer.xml
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\DataAccessLayer\obj\Debug\DataAccessLayer.vbproj.AssemblyReference.cache
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\DataAccessLayer\obj\Debug\DataAccessLayer.Resources.resources
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\DataAccessLayer\obj\Debug\DataAccessLayer.vbproj.GenerateResource.cache
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\DataAccessLayer\obj\Debug\DataAccessLayer.vbproj.CoreCompileInputs.cache
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\DataAccessLayer\obj\Debug\DataAccessLayer.xml
+C:\Users\maxcu\OneDrive\Escritorio\PROYECTOFINAL\SistemaInventario2023_UEHOSPSUPE\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
