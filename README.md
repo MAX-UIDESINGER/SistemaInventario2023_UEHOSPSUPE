@@ -3,7 +3,8 @@ El Sistema de Inventario es una solución avanzada y personalizada diseñada par
 Esta aplicación se ha desarrollado con el objetivo de optimizar el control de los activos y recursos disponibles dentro de la organización, permitiendo un seguimiento preciso de los productos, equipos o materiales en todo momento.
 
 [![P-gina-Web-de-Venta-Tecnolog-a-y-Videojuegos-Cerceta-y-Blanco-Degradado.png](https://i.postimg.cc/cLYjpnCM/P-gina-Web-de-Venta-Tecnolog-a-y-Videojuegos-Cerceta-y-Blanco-Degradado.png)](https://postimg.cc/SnSD8jWJ)
-
+[![2.jpg](https://i.postimg.cc/C5BcHkyn/2.jpg)](https://postimg.cc/y3Kh7J87)
+[![3.jpg](https://i.postimg.cc/XYQDWVgJ/3.jpg)](https://postimg.cc/5XQmqWTd)
 
 ## Características :
 
@@ -22,4 +23,6 @@ Esta aplicación se ha desarrollado con el objetivo de optimizar el control de l
 * Integración con Otros Sistemas: Puede integrarse con otros sistemas de la organización, como sistemas de contabilidad o de gestión de proveedores, para una mayor eficiencia operativa.
 
 * Escalabilidad: Está diseñado para crecer con las necesidades de la organización, adaptándose a cambios en el volumen de inventario o en la estructura de la empresa.
+
+
 
