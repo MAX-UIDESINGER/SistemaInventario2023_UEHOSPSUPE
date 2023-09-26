@@ -1,28 +1,27 @@
 # UEHOSPSUPE
-El Sistema de Inventario es una solución avanzada y personalizada diseñada para la gestión eficiente y efectiva de inventarios en el contexto de la entidad o empresa denominada a inventarios de equipos de computo. 
-Esta aplicación se ha desarrollado con el objetivo de optimizar el control de los activos y recursos disponibles dentro de la organización, permitiendo un seguimiento preciso de los productos, equipos o materiales en todo momento.
+The Inventory System is an advanced and personalized solution designed for the efficient and effective management of inventories in the context of the entity or company called computer equipment inventories.
+This application has been developed with the aim of optimizing the control of assets and resources available within the organization, allowing precise tracking of products, equipment or materials at all times.
 
 [![P-gina-Web-de-Venta-Tecnolog-a-y-Videojuegos-Cerceta-y-Blanco-Degradado.png](https://i.postimg.cc/cLYjpnCM/P-gina-Web-de-Venta-Tecnolog-a-y-Videojuegos-Cerceta-y-Blanco-Degradado.png)](https://postimg.cc/SnSD8jWJ)
 [![2.jpg](https://i.postimg.cc/C5BcHkyn/2.jpg)](https://postimg.cc/y3Kh7J87)
 [![3.jpg](https://i.postimg.cc/XYQDWVgJ/3.jpg)](https://postimg.cc/5XQmqWTd)
 
-## Características :
+## Characteristics :
+* Intuitive Interface: The system has an intuitive and friendly user interface that makes it easy to use by the organization's staff, regardless of their level of technology experience.
+  
+* Comprehensive Inventory Management: Allows you to keep a complete record of the products or assets available, including detailed information on quantities, locations, acquisition dates, and any other relevant data.
 
-* Interfaz Intuitiva: El sistema cuenta con una interfaz de usuario intuitiva y amigable que facilita su uso por parte del personal de la organización, independientemente de su nivel de experiencia en tecnología.
+* Stock Control: Provides the ability to track inventory levels, making it easier to make informed decisions about replenishing or reducing inventory.
 
-* Gestión Integral de Inventarios: Permite llevar un registro completo de los productos o activos disponibles, incluyendo información detallada sobre cantidades, ubicaciones, fechas de adquisición, y cualquier otro dato relevante.
+* Movement Record: Automatically records all inventory movements, such as entries, exits, transfers between locations and adjustments, allowing complete traceability.
 
-* Control de Stock : Proporciona la capacidad de realizar un seguimiento de los niveles de inventario, lo que facilita la toma de decisiones informadas sobre reabastecimiento o reducción de inventario.
+* Report Generation: Facilitates the generation of detailed and customizable reports on inventory status, product performance and other key indicators.
 
-* Registro de Movimientos: Registra de manera automática todos los movimientos de inventario, como entradas, salidas, transferencias entre ubicaciones y ajustes, lo que permite una trazabilidad completa.
+* Security and Privacy: Ensures the security of inventory data through robust protection measures and authorized access.
 
-* Generación de Informes: Facilita la generación de informes detallados y personalizables sobre el estado del inventario, el rendimiento de los productos y otros indicadores clave.
+* Integration with Other Systems: It can be integrated with other systems of the organization, such as accounting or supplier management systems, for greater operational efficiency.
 
-* Seguridad y Privacidad: Garantiza la seguridad de los datos del inventario mediante medidas robustas de protección y acceso autorizado.
-
-* Integración con Otros Sistemas: Puede integrarse con otros sistemas de la organización, como sistemas de contabilidad o de gestión de proveedores, para una mayor eficiencia operativa.
-
-* Escalabilidad: Está diseñado para crecer con las necesidades de la organización, adaptándose a cambios en el volumen de inventario o en la estructura de la empresa.
+* Scalability: It is designed to grow with the needs of the organization, adapting to changes in the volume of inventory or in the structure of the company.
 
 
 
